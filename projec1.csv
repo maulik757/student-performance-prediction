@@ -1,0 +1,7 @@
+Hours,Attendance,PrevMarks,Result
+2,60,40,fail
+4,70,50,pass
+5,80,55,pass
+6,85,65,pass
+7,90,75,pass
+3,65,45,fail
